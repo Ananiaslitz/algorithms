@@ -1,0 +1,17 @@
+{
+    "name": "diego.ananias/algoritmos",
+    "description": "Algoritmos usando diversas linguagens",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "DiegoAnanias\\Algoritmos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego Ananias",
+            "email": "diegohsananias@gmail.com"
+        }
+    ],
+    "require": {}
+}
