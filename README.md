@@ -7,7 +7,7 @@ Esse repositorio era para armazenar exemplos dos algoritmos basicos em php.
 
 foi crescendo devido ao meu interesse em novas linguagens, hoje as implementações somam as seguintes linguagens:
 
-D
-PHP
-Kotlin
-Scala
+- D
+- PHP
+- Kotlin
+- Scala
