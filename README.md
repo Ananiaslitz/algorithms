@@ -11,3 +11,4 @@ foi crescendo devido ao meu interesse em novas linguagens, hoje as implementa√ß√
 - PHP
 - Kotlin
 - Scala
+- Go
